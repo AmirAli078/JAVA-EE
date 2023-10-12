@@ -1,5 +1,5 @@
 # Login form using Servlet
-his is a simple Java Servlet-based login form for user authentication in a web application.
+This is a simple Java Servlet-based login form for user authentication in a web application.
 
 ## Features
 
