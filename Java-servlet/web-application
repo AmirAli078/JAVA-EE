@@ -2,7 +2,9 @@
 
 ## Description
 
-This project is a comprehensive CRUD (Create, Read, Update, Delete) web application developed using Java Servlets for the backend, HTML and CSS for the frontend, and Eclipse IDE for efficient development. The application includes additional features such as user authentication, login functionality, and dedicated pages for updating, deleting, and editing data.
+This project is a comprehensive CRUD (Create, Read, Update, Delete) web application developed using Java Servlets for the backend.
+HTML and CSS for the frontend, and Eclipse IDE for efficient development. 
+The application includes additional features such as user authentication, login functionality, and dedicated pages for updating, deleting, and editing data.
 
 ## Features
 
