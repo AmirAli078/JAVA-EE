@@ -1,1 +1,36 @@
+# Crud Web Application 
+
+## Description
+
+This project is a comprehensive CRUD (Create, Read, Update, Delete) web application developed using Java Servlets for the backend, HTML and CSS for the frontend, and Eclipse IDE for efficient development. The application includes additional features such as user authentication, login functionality, and dedicated pages for updating, deleting, and editing data.
+
+## Features
+
+- **CRUD Operations:** Create, Read, Update, and Delete functionalities are seamlessly integrated.
+- **User Authentication:** Secure login functionality to control access to the application.
+- **Home Page:** A central hub for easy navigation, providing an overview of the application.
+- **Update Page:** Allows users to modify existing records.
+- **Delete Page:** Facilitates the removal of unwanted data.
+- **Edit Page:** Comprehensive interface for making detailed changes to data.
+
+## Technologies Used
+
+- **Backend:** Java Servlets
+- **Frontend:** HTML, CSS
+- **Data Base:** Mysql
+- **Development Environment:** Eclipse IDE
+
+## Getting Started
+
+1. Clone the repository.
+2. Set up your development environment with Eclipse IDE.
+3. Ensure the necessary dependencies are installed.
+4. Run the application.
+
+## Usage
+
+1. Access the home page for an overview of available functionalities.
+2. Use the login page for authentication.
+3. Explore the dedicated pages for CRUD operations and data manipulation.
+
 
